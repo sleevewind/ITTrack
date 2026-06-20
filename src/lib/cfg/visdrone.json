@@ -1,0 +1,15 @@
+{
+    "root":"/home/data",
+    "train":
+    {
+        "visdrone":"./data/VisDrone.train"
+    },
+    "test_emb":
+    {
+        "visdrone":"./data/VisDrone.train"
+    },
+    "test":
+    {
+        "visdrone":"./data/VisDrone.train"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "root":"/home/data",
+    "train":
+    {
+        "UAVDT":"./data/uavdt.train"
+    },
+    "test_emb":
+    {
+        "UAVDT":"./data/uavdt.train"
+    },
+    "test":
+    {
+        "UAVDT":"./data/uavdt.train"
+    }
+}
